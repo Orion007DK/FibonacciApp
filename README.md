@@ -15,12 +15,18 @@ Wykonanie aplikacji:
 5. Opracowanie pliku docker-compose.yml
 6. Zakutalizowanie repozytorium na githubie.
 
-Uruchomienie aplikacji(bez dockera)
-1.Pobranie repozytorium - git clone
-2.Pobranie dependencji - npm install
-3.Uruchomienie aplikacji - yarn start
+Uruchomienie aplikacji(bez dockera):
+</br>
+1. Pobranie repozytorium - git clone
+</br>
+2. Pobranie dependencji - npm install
+</br>
+3. Uruchomienie aplikacji - yarn start
+
 
 Uruchomienie aplikacji z dockerem:
-1.Pobranie repozytorium - git clone
-2.Zbudowanie i uruchomienie kontenera z aplikacją - docker-compose up
+</br>
+1. Pobranie repozytorium - git clone
+</br>
+2. Zbudowanie i uruchomienie kontenera z aplikacją - docker-compose up
 
